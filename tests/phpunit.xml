@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit bootstrap="tests/bootstrap.php"
+         colors="true"
+         verbose="true">
+  <testsuites>
+    <testsuite name="Workcity Client Projects">
+      <directory>./tests/</directory>
+    </testsuite>
+  </testsuites>
+  <php>
+    <!-- Path to your WordPress tests library -->
+    <env name="WP_TESTS_DIR" value="/tmp/wordpress-tests-lib"/>
+    <env name="WP_CORE_DIR"  value="/tmp/wordpress/"/>
+  </php>
+</phpunit>
