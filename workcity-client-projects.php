@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     Workcity Client Projects
- * Plugin URI:      https://github.com/yourusername/workcity-assessment-wordpress
+ * Plugin URI:      https://github.com/Joshuaetok/workcity-assessment-wordpress
  * Description:     Client Projects Management Plugin for Workcity Africa assessment.
  * Version:         1.0.0
  * Author:          Joshua Etok
